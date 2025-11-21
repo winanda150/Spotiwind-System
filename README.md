@@ -1,3 +1,3 @@
 # Spotiwind-System
 
-Masih tahap pembuatan dan perbaikan supaya mirip dengan spotify
+Masih tahap pembuatan dan perbaikan
